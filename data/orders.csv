@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer,Channel,SKU,Quantity,Priority,Status,Required_Ship_Date
+ORD001,2026-09-24,Customer 001,Shopify,SKU001,2,Yes,Pending,2026-09-24
+ORD002,2026-09-24,Customer 002,Amazon,SKU002,1,No,Packed,2026-09-25
+ORD003,2026-09-24,Customer 003,Shopify,SKU003,1,Yes,Picking,2026-09-24
+ORD004,2026-09-24,Customer 004,Wholesale,SKU004,3,No,Shipped,2026-09-25
+ORD005,2026-09-24,Customer 005,Amazon,SKU005,1,Yes,Pending,2026-09-24
+ORD006,2026-09-24,Customer 006,Shopify,SKU006,2,No,Packed,2026-09-26
+ORD007,2026-09-24,Customer 007,Amazon,SKU007,1,No,Picking,2026-09-26
+ORD008,2026-09-24,Customer 008,Shopify,SKU008,2,Yes,Pending,2026-09-24
+ORD009,2026-09-24,Customer 009,Amazon,SKU009,1,No,Shipped,2026-09-26
+ORD010,2026-09-24,Customer 010,Wholesale,SKU010,1,Yes,Packed,2026-09-24
+ORD011,2026-09-24,Customer 011,Shopify,SKU001,1,No,Pending,2026-09-27
+ORD012,2026-09-24,Customer 012,Amazon,SKU002,2,No,Picking,2026-09-27
+ORD013,2026-09-24,Customer 013,Shopify,SKU003,1,Yes,Pending,2026-09-24
+ORD014,2026-09-24,Customer 014,Amazon,SKU004,1,No,Packed,2026-09-27
+ORD015,2026-09-24,Customer 015,Shopify,SKU005,2,Yes,Shipped,2026-09-24

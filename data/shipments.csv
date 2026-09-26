@@ -1,0 +1,11 @@
+Shipment_ID,Order_ID,Courier,Pickup_Status,Shipment_Status,Tracking_ID
+SHP001,ORD001,BlueDart,Pending,Not Shipped,TRK1001
+SHP002,ORD002,Delhivery,Picked Up,In Transit,TRK1002
+SHP003,ORD003,BlueDart,Pending,Not Shipped,TRK1003
+SHP004,ORD004,FedEx,Picked Up,Delivered,TRK1004
+SHP005,ORD005,Delhivery,Pending,Not Shipped,TRK1005
+SHP006,ORD006,BlueDart,Ready,Not Shipped,TRK1006
+SHP007,ORD007,FedEx,Ready,Not Shipped,TRK1007
+SHP008,ORD008,Delhivery,Pending,Not Shipped,TRK1008
+SHP009,ORD009,BlueDart,Picked Up,In Transit,TRK1009
+SHP010,ORD010,FedEx,Ready,Not Shipped,TRK1010

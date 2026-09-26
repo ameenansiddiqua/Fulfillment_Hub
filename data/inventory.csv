@@ -1,0 +1,11 @@
+SKU,Product_Name,Main_Warehouse,Backup_Warehouse,Reorder_Level
+SKU001,Cotton T-Shirt,20,10,10
+SKU002,Sports Shoes,3,15,8
+SKU003,Smart Watch,2,8,5
+SKU004,Wireless Headphones,18,5,10
+SKU005,Backpack,4,12,8
+SKU006,Water Bottle,25,20,10
+SKU007,Hoodie,6,10,8
+SKU008,Running Shorts,2,6,8
+SKU009,Phone Case,30,15,10
+SKU010,Laptop Sleeve,1,9,5

@@ -1,0 +1,7 @@
+Issue_ID,Order_ID,Issue_Type,Description,Priority,Status
+ISS001,ORD003,Missing Stock,Main warehouse stock needs checking,High,Open
+ISS002,ORD005,Wrong Product,Product variant needs verification,High,Open
+ISS003,ORD008,Delayed Order,Priority order is still pending,High,Open
+ISS004,ORD010,Pickup Issue,Courier pickup not confirmed,Medium,Open
+ISS005,ORD012,Stock Mismatch,Physical stock differs from system,Medium,Open
+ISS006,ORD004,Resolved Issue,Shipment successfully handed to courier,Low,Resolved
