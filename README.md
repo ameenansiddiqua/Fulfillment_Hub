@@ -36,3 +36,20 @@ Fulfillment_Hub
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+## How to Run
+
+1. Open the project in PyCharm.
+2. Open the PyCharm Terminal.
+3. Install the required packages:
+
+pip install -r requirements.txt
+
+4. Start the application:
+
+streamlit run app.py
+
+5. Open the Streamlit URL shown in the terminal.
+
+## Data
+
+The application uses dummy CSV data for demonstration purposes. No real store, customer, inventory, or courier system is connected.
